@@ -1,10 +1,10 @@
-# DE-DUPLICATION-OF-RECORDS
+# DE-DUPLICATION OF RECORDS
 This python code removes the duplicate records
 
 
  steps to execute the file
 
--> I have done this in python 2.7.12
+->I have done this in python 2.7.12
 
 ->In order to run the code you need to install scikit-learn(I am using k-means from scikit learn) steps in ubuntu
 
